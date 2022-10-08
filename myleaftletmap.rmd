@@ -1,6 +1,6 @@
 ---
 title: "My Leaflet"
-author: "Shivani Nayak"
+author: "Arya Devaskar"
 date: "08/10/2022"
 output: html_document
 ---
